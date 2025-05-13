@@ -12,3 +12,8 @@ Task 3: Check if a Number is Even or Odd.
 
 Task 4: Sum of Integers from 1 to 50 Using a Loop.
 
+Assignment:3
+
+task 5: Factorial of a no.
+
+task 6: find sqaure root, log, sign of a no Using the Math Module .
