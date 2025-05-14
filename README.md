@@ -17,3 +17,9 @@ Assignment:3
 task 5: Factorial of a no.
 
 task 6: find sqaure root, log, sign of a no Using the Math Module .
+
+Assignment:4
+
+task 7: Read a File and Handle Errors.
+
+task 8: Write and Append Data to a File.
