@@ -29,3 +29,7 @@ Assignment:5
 task 9: Create a Dictionary of Student Marks.
 
 task 10: Demonstrate List Slicing.
+
+Assignment:6
+
+task 11: Calculator using tkinter.
