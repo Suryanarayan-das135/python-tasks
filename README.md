@@ -38,4 +38,3 @@ Assignment:7
 
 task 12:Building database using postrage sql.
 
-t
