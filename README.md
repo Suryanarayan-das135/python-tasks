@@ -33,3 +33,9 @@ task 10: Demonstrate List Slicing.
 Assignment:6
 
 task 11: Calculator using tkinter.(As A zip file)
+
+Assignment:7
+
+task 12:Building database using postrage sql.
+
+t
